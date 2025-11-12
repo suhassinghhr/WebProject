@@ -1,6 +1,5 @@
-# WebProject
-Calculator
------------
+# Calculator
+
 calculator/
 ├── calc.html        # Main HTML structure of the calculator
 ├── index.css        # Styling for the calculator UI
